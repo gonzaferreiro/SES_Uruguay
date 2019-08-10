@@ -7,5 +7,6 @@ Done so far:
 * Dataset cleaning
 * Binarization of some features
 * Firsts simple classification models
-* PCA to reduce the number of features
+* Model using new target created out of the income percentiles with ad-hoc function
+* PCA to reduce the number of features + modelling
 * Some clustering
